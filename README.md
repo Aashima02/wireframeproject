@@ -20,13 +20,13 @@ Save the pages once you're done.
 
 ## OUTPUT:
 ### Home Page: 
-![homepage](https://user-images.githubusercontent.com/93427086/151812810-78f56f85-293e-42a4-b935-f72d5eceb856.png)
+![homepage](https://user-images.githubusercontent.com/93427086/151812962-35fd78aa-5331-4497-b241-217222538af6.png)
 
 ### Moderniztion > Ongoing Projects:
-![projects](https://user-images.githubusercontent.com/93427086/151812823-f26a3e1a-353c-4477-a987-b7cf96071224.png)
+![projects](https://user-images.githubusercontent.com/93427086/151812987-9217c51c-06c3-477c-aeee-d45d13e90d98.png)
 
 ### About Us > Contact Us:
-![aboutus](https://user-images.githubusercontent.com/93427086/151812852-601f0b25-a221-4517-99cd-81defcacf8cb.png)
+![aboutus](https://user-images.githubusercontent.com/93427086/151813007-7dcb79ba-a705-41db-8d07-662252628a3e.png)
 
 
 ## RESULT:
