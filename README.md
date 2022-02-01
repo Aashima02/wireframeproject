@@ -12,7 +12,7 @@ Open a New Document and resize the canvas to your desired size.
 Use the tools to design a Wire frame for the given website.
 
 ### Step 3:
-Duplicate tha layout and modify the further pages.
+Duplicate the layout and modify the further pages.
 
 ### Step 4:
 Save the pages once you're done.
